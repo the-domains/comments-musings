@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Comments & Musings]]></title>
+        <description><![CDATA[Comments & Musings]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 06 Aug 2016 08:30:56 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Organisational Culture Matters a Whole Lot - Francis Lynch]]></title>
+            <description><![CDATA[<article><h1>Organisational Culture Matters a Whole Lot - Francis Lynch</h1><p>Download the Transcript - 0rganisational Culture matters a lot Organisational culture matters a lot. why does this organisation matter? When people join an organisation, there's usually some reason why they want to be there. Sometimes it's just a job, but often it's about connecting to the purpose of the organisation or the values of the organisation.</p></article>]]></description>
+            <link>https://www.francislynch.me/organisational-culture-matters-whole-lot/</link>
+            <guid isPermaLink="false">142c2ea2-5a4e-4f31-8c78-2c41eeb4cd4c</guid>
+            <pubDate>Sat, 06 Aug 2016 08:30:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
